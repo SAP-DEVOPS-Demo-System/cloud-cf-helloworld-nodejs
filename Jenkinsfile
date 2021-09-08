@@ -1,4 +1,4 @@
-@Library('piper-lib-os@v2.30.2') _
+@Library('piper-lib-os) _
 node() {
     stage('prepare') {
         checkout scm
