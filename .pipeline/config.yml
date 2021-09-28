@@ -9,4 +9,4 @@ steps:
     cloudFoundry:
       org: 'a0d6724atrial'
       space: 'dev'
-      credentialsId: 'CF_CREDENTIALSID'
+      credentialsId: 'BTP_ID'
